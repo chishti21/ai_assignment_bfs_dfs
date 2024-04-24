@@ -1,0 +1,7 @@
+1 0 S a b c d
+k j i h g f e
+l m n o p q r
+y x w v u t s
+z A B C D E F
+N M L K J I H
+G T Z R Q P O
